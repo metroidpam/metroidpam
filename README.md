@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🧑 Name : Louis Voisin
+
+📅 Age : 23 years old (1999)
+
+🗺️ Localisation : Nancy, France
+
+💼 Activity : Student and junior developper at Gamestream
+
 <!--
 **metroidpam/metroidpam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
