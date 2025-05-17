@@ -2,7 +2,7 @@
 
 🧑 Name : Louis Voisin
 
-📅 Age : 25 years old (1999)
+📅 Age : 26 years old (1999)
 
 🗺️ Localisation : Metz, France
 
