@@ -2,11 +2,11 @@
 
 🧑 Name : Louis Voisin
 
-📅 Age : 26 years old (1999)
+📅 Age : 27 years old (1999)
 
 🗺️ Localisation : Metz, France
 
-💼 Activity : software engineer consultant @Arhs part of accenture - Luxembourg
+💼 Activity : software engineer @Phoenix developments  - Luxembourg
 
 ## Socials
 <a aligh="left" href="https://lvoisin.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/louis-voisin-693434160/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>
